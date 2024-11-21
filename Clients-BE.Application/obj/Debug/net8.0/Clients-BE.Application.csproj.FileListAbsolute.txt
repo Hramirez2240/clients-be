@@ -1,0 +1,15 @@
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\bin\Debug\net8.0\Clients-BE.Application.deps.json
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\bin\Debug\net8.0\Clients-BE.Application.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\bin\Debug\net8.0\Clients-BE.Application.pdb
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\bin\Debug\net8.0\Clients-BE.Domain.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\bin\Debug\net8.0\Clients-BE.Domain.pdb
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.csproj.AssemblyReference.cache
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.AssemblyInfo.cs
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-.5FC67231.Up2Date
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\refint\Clients-BE.Application.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\Clients-BE.Application.pdb
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Application\obj\Debug\net8.0\ref\Clients-BE.Application.dll

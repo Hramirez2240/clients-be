@@ -1,0 +1,11 @@
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\bin\Debug\net8.0\Clients-BE.Domain.deps.json
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\bin\Debug\net8.0\Clients-BE.Domain.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\bin\Debug\net8.0\Clients-BE.Domain.pdb
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\Clients-BE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\Clients-BE.Domain.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\Clients-BE.Domain.AssemblyInfo.cs
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\Clients-BE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\Clients-BE.Domain.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\refint\Clients-BE.Domain.dll
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\Clients-BE.Domain.pdb
+C:\Users\hrami\Desktop\Clients-project\Clients-BE\Clients-BE.Domain\obj\Debug\net8.0\ref\Clients-BE.Domain.dll
